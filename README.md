@@ -102,6 +102,27 @@ PE1 MPLS Forwarding Table :
 --------------------------------
 
 <img width="951" height="435" alt="Image" src="https://github.com/user-attachments/assets/aab8a8a5-2975-4bff-b9b4-d6694d44a077" />
+
+PE2 & SPOKE 1 OUTPUT :-
+==================
+
+PE2 To Spoke 1 Reachability :
+--------------------------------
+
+<img width="793" height="109" alt="Image" src="https://github.com/user-attachments/assets/43074e9e-d627-4c99-a656-8a7a113f3fb6" />
+
+
+PE2=VRF,VRF Route, MPLS Forwarding Table Output :-
+------------------------------------------------------------
+
+<img width="1141" height="1015" alt="Image" src="https://github.com/user-attachments/assets/cc945876-2212-4684-b023-4f02c77c3d4e" />
+
+
+Spoke 1 = Spoke 1 to Hub Reachability, Spoke 1 To Other Spoke Reachability, Spoke 1 ip route Outputs :
+---------------------------------------------------------------------------------------------------------------------
+
+<img width="1165" height="909" alt="Image" src="https://github.com/user-attachments/assets/80d1f27f-10f7-4968-8235-a85d32ad0383" />
+
 ---
 
 ## 🚧 What’s Next?
