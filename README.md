@@ -146,7 +146,26 @@ PE 3=VRF,VRF Route, MPLS Forwarding Table Output :-
 
 <img width="939" height="998" alt="Image" src="https://github.com/user-attachments/assets/60369927-f025-49e6-bba2-0dc66c9c06e3" />
 
+PE4 & SPOKE 3 OUTPUT :-
+==================
 
+
+Spoke 3 = Spoke 3 to Hub Reachability, Spoke 3 To Other Spoke Reachability, Spoke 3 ip route Outputs :
+---------------------------------------------------------------------------------------------------------------------
+
+<img width="1175" height="920" alt="Image" src="https://github.com/user-attachments/assets/9329d584-3c27-46ad-9f11-3864d5e03c48" />
+
+
+PE 4 To Spoke 3 Reachability :
+--------------------------------
+
+<img width="985" height="194" alt="Image" src="https://github.com/user-attachments/assets/be22bda7-42f9-4907-8a74-7d1caa9f03b9" />
+
+
+PE 4=VRF,VRF Route, MPLS Forwarding Table Output :-
+------------------------------------------------------------
+
+<img width="1027" height="950" alt="Image" src="https://github.com/user-attachments/assets/827c04d7-2ba4-435c-93a7-f9f581af2855" />
 ---
 
 ## 🚧 What’s Next?
@@ -164,7 +183,7 @@ PE 3=VRF,VRF Route, MPLS Forwarding Table Output :-
 ## 🙌 Credits
 
 Created by **Amara Srinivas** – Network Engineer & Lab Enthusiast  
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com)
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/amara-srinivas-53271a253/recent-activity/all/)
 
 ---
 
